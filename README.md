@@ -16,7 +16,7 @@ The healthcare dataset comprises information related to inpatient and outpatient
 7. Total: The total count or volume of services.
 
 ## Project Structure
-- `dashboard/`: This directory contains dashboard.py which is used to create dashboards of data analysis results.
+- `Power BI Project End to End Dashboard.pbix`: This directory contains dashboard.py which is used to create dashboards of data analysis results.
 - `datasets/`: Contains raw CSV data for data analysis.
 - `README.md`: This documentation file.
 
