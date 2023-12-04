@@ -26,4 +26,4 @@ The healthcare dataset comprises information related to inpatient and outpatient
 
 <img width="935" alt="Detailed Page" src="Photos/Detailed Screenshot.png">
 
-<img width="934" alt="Detailed" src="Photos/Drill Down Screenshot.png">
+<img width="400" alt="Detailed" src="Photos/Drill Down Screenshot.png">
